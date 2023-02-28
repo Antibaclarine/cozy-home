@@ -1,0 +1,223 @@
+.background {
+    background-image: url(/image/modern+eclectic+living+room.jpeg);
+    background-size: 100%;
+width: 100%;
+  height: 600px;  
+
+    
+
+    
+}
+.Cozy{
+    float: right;
+margin-left:20% ;
+}
+.search{
+    padding: 12px;
+    
+    color:#ffac7d;
+}
+.Cozy ul li{
+    padding: 0px 6px 8px 4px;
+    justify-content: right;
+    display: inline-block;
+    margin-right: 5%;
+}
+.love{
+    width: 3%;
+}
+.make{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    margin-left: 20%;
+    font-family: 'Montserat',sans-serif;
+    font-size: 20px;
+}
+.explore{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    margin-left: 10%;
+}
+.your{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    margin-left: %;
+}
+.shop{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    background-color: #ffac7d;
+    margin-left: 50%;
+    padding: 12px;
+    border-radius: 5%;
+}
+
+.modern{
+    float: right;
+    
+    
+}
+.classic{
+    width: 50%;
+    position: relative;
+    top: 35px;
+    margin-right: 5%;
+}
+.dining{
+    width: 50%;
+}
+.mod{
+    background-color: #ffac7d;
+    width: 50%;
+    padding: 12px;
+    border-radius: 5%;
+}
+    
+    
+
+.image2{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    
+}
+.scand{
+    width: 50%;
+}
+.laptop{
+    width: 15%;
+}
+.wall{
+    width: 20%;
+    
+}
+.wall1{
+    float: right;
+    position: relative;
+    top: -200px;
+    
+}
+.scand1{
+    float: right;
+    position: relative;
+    top: -350px;
+}
+.imge{
+    width: 20%;
+
+}
+.image3{
+
+background-color: #002d3d;
+
+}
+.flower{
+    float: right;
+    margin-right: 15%;
+
+}
+.join{
+    background-color:#ffffff;
+    text-align: center;
+}
+.need{
+    background-color: #ffe5d6;
+    background-size: 30%;
+}
+.instagram{
+    width: 5%;
+    position: relative;
+    top: 7px;
+}
+.printest{
+    width: 3%;
+}
+.facebook{
+    width: 3%;
+}
+.cozy2 ul li{
+  list-style: none; 
+  top: 40Px; 
+  color: #ffffff;
+}
+.about{
+    margin-left: 20%;
+    position: relative;
+    top: -100px;
+}
+.about ul li{
+    list-style: none;
+    color: #ffffff;
+}
+.shipping{
+    margin-left: 37%;
+    position: relative;
+    top: -200px;
+    color: #ffffff;
+    
+}
+.shipping ul li{
+    list-style: none;
+}
+.careers{
+    margin-left: 50%;
+    position: relative;
+    top: -290px;
+    color: #ffffff;
+}
+.careers ul li{
+    list-style: none;
+}
+.find{
+margin-left: 70%;
+position: relative;
+top: -380px;
+color: #ffffff;
+}
+.find ul li{
+list-style: none;
+text-emphasis-color: white;
+}
+.last{
+    background-color: #002d3d;
+}
+.go{
+  background-color: #ffac7d;
+  border: none;
+}
+#your2{
+    
+    
+    color: #002d3d;
+    text-align: center;
+
+}
+.more{
+    margin-left: 30%;
+    padding: 16px;
+    border-radius: 5%;
+    background-color: #ffac7d;
+    width: 130px
+    
+    
+}
+.popular{
+    color: #ffac7d;
+}
+.insp{
+    color: #002d3d;
+    font-size: 150%;
+    
+}
+.flower{
+    position: relative;
+    top: -10px;
+}
+
+
+
+
