@@ -81,7 +81,7 @@ margin-left:20% ;
 
 .image2{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: white;
     
 }
@@ -90,9 +90,11 @@ margin-left:20% ;
 }
 .laptop{
     width: 15%;
+    margin-left: 5%;
 }
 .wall{
     width: 20%;
+    
     
 }
 .wall1{
@@ -100,11 +102,12 @@ margin-left:20% ;
     position: relative;
     top: -200px;
     
+    
 }
 .scand1{
     float: right;
     position: relative;
-    top: -350px;
+    top: -365px;
 }
 .imge{
     width: 20%;
@@ -132,6 +135,7 @@ background-color: #002d3d;
     width: 5%;
     position: relative;
     top: 7px;
+    color: white;
 }
 .printest{
     width: 3%;
@@ -215,7 +219,11 @@ text-emphasis-color: white;
 }
 .flower{
     position: relative;
-    top: -10px;
+    top: -60px;
+    
+}
+.ome{
+    color: #ffac7d;
 }
 
 
