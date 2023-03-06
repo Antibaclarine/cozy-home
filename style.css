@@ -1,22 +1,45 @@
+.container{
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Gloock', serif;
+font-family: 'Golos Text', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Roboto', sans-serif;
+}
 .background {
     background-image: url(/image/modern+eclectic+living+room.jpeg);
     background-size: 100%;
 width: 100%;
   height: 600px;  
 
-    
+   
 
     
 }
 .Cozy{
-    float: right;
-margin-left:20% ;
+float: 30%;
+ position: relative;   
+top: 20px;
+color: #002d3d;
+margin-left: 5%;
+
+}
+#ho{
+    color: #ffac7d;
 }
 .search{
     padding: 12px;
+    text-align: left;
+    background-color:#ffe5d6;
+    color: #002d3d;
+    width: 25%;
+    margin-left: 45%;
+    position: relative;
+    top: -40px;
+    border-radius: 5%;
     
-    color:#ffac7d;
 }
+
 .Cozy ul li{
     padding: 0px 6px 8px 4px;
     justify-content: right;
@@ -33,6 +56,7 @@ margin-left:20% ;
     margin-left: 20%;
     font-family: 'Montserat',sans-serif;
     font-size: 20px;
+    
 }
 .explore{
     text-align: center;
@@ -44,7 +68,7 @@ margin-left:20% ;
     text-align: center;
     position: relative;
     top: 200px;
-    margin-left: %;
+    margin-left: ;
 }
 .shop{
     text-align: center;
@@ -58,14 +82,15 @@ margin-left:20% ;
 
 .modern{
     float: right;
-    
+    margin-left: 20%;
     
 }
 .classic{
     width: 50%;
     position: relative;
-    top: 35px;
+    top: 47px;
     margin-right: 5%;
+
 }
 .dining{
     width: 50%;
@@ -84,43 +109,76 @@ margin-left:20% ;
     justify-content: space-around;
     background-color: white;
     
+    
 }
 .scand{
     width: 50%;
-}
-.laptop{
-    width: 15%;
-    margin-left: 5%;
-}
-.wall{
-    width: 20%;
-    
-    
-}
-.wall1{
-    float: right;
-    position: relative;
-    top: -200px;
-    
-    
-}
-.scand1{
-    float: right;
-    position: relative;
-    top: -365px;
-}
-.imge{
-    width: 20%;
 
 }
+.laptop{
+    width: 20%;
+    margin-left: 5%;
+    height: 30%;
+}
+.wall{
+    width: 40%;
+    margin-left: 50%;
+    position: relative;
+    top:-120px ;
+}
+.mary{
+    width: 20%;
+    margin-left: 40%;
+    position: relative;
+    top: -500px;
+    
+}
+#rustic{
+    margin-left: 5%;
+}
+#shelve{
+    margin-right: 10%;
+    position: relative;
+    top: -140px;
+    
+}
+#mustard{
+   margin-left: 70%;
+   position: relative; 
+   top: -500px;
+    
+}
+
+
+
+
+
+
+    
+    
+
+
+    
+    
+
+
+
+
+
+
 .image3{
 
 background-color: #002d3d;
 
+
 }
 .flower{
-    float: right;
-    margin-right: 15%;
+   float: right;
+   margin-right: 5%;
+padding: 0px 0px 5px;
+  transform: translateY(65px)
+  
+   
 
 }
 .join{
@@ -129,7 +187,30 @@ background-color: #002d3d;
 }
 .need{
     background-color: #ffe5d6;
-    background-size: 30%;
+    background-size: 60px;
+    
+
+    
+    
+}
+#guides{
+    margin-left: 25%;
+    
+}
+#blog{
+    margin-left: 25%;
+}
+#ideas{
+    margin-left: 25%;
+    
+}
+#spi{
+    margin-left:24%;
+    font-size: 150%;
+}
+#all{
+    margin-left: 25%;
+    font-size: 60%;
 }
 .instagram{
     width: 5%;
@@ -145,24 +226,26 @@ background-color: #002d3d;
 }
 .cozy2 ul li{
   list-style: none; 
-  top: 40Px; 
+  top: 200Px; 
   color: #ffffff;
+  
 }
 .about{
     margin-left: 20%;
     position: relative;
-    top: -100px;
+    top: -30px;
 }
 .about ul li{
     list-style: none;
     color: #ffffff;
+    font-size: 60%;
 }
 .shipping{
     margin-left: 37%;
     position: relative;
-    top: -200px;
+    top: -100px;
     color: #ffffff;
-    
+    font-size: 60%;
 }
 .shipping ul li{
     list-style: none;
@@ -170,8 +253,9 @@ background-color: #002d3d;
 .careers{
     margin-left: 50%;
     position: relative;
-    top: -290px;
+    top: -160px;
     color: #ffffff;
+    font-size: 60%;
 }
 .careers ul li{
     list-style: none;
@@ -179,15 +263,18 @@ background-color: #002d3d;
 .find{
 margin-left: 70%;
 position: relative;
-top: -380px;
+top: -200px;
 color: #ffffff;
+font-size: 60%;
 }
 .find ul li{
 list-style: none;
 text-emphasis-color: white;
+
 }
 .last{
     background-color: #002d3d;
+    
 }
 .go{
   background-color: #ffac7d;
@@ -201,7 +288,8 @@ text-emphasis-color: white;
 
 }
 .more{
-    margin-left: 30%;
+    
+    margin-left: 35%;
     padding: 16px;
     border-radius: 5%;
     background-color: #ffac7d;
@@ -216,6 +304,7 @@ text-emphasis-color: white;
     color: #002d3d;
     font-size: 150%;
     
+    
 }
 .flower{
     position: relative;
@@ -224,8 +313,27 @@ text-emphasis-color: white;
 }
 .ome{
     color: #ffac7d;
+    
+}
+.he{
+  font-size: 60%;  
+}
+.chair{
+    margin-left: 5%;
 }
 
+.sign{
+    float: right;
+    margin-right: 15%;
+position: relative;
+top: -15px;
+}
+.fa fa-magnifying-glass{
+    float: left;
+}
+#the{
+    font-size: 60%;
+}
 
 
 
